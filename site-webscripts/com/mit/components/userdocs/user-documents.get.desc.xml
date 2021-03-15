@@ -1,0 +1,5 @@
+<webscript>
+   <shortname>List User Documents</shortname>
+   <description>Displays documents of selected user</description>
+   <url>/components/userdocs/user-documents</url>
+</webscript>

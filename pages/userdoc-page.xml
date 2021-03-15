@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<page>
+   <title>User Document</title>
+   <description>User Document view</description>
+    <template-instance>userdoc-page</template-instance>
+    <authentication>user</authentication>
+     <!-- Search -->
+    <components>
+      <component>
+         <region-id>userdocs</region-id>
+         <url>/components/userdocs/user-documents</url>
+      </component>    
+            <!-- Search -->
+      <component>
+         <region-id>search</region-id>
+         <url>/components/search/search</url>
+      </component>
+      
+   </components>
+</page>                        
